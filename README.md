@@ -38,7 +38,7 @@ To conduct thorough data analysis on a firm's sales data to reveal insights rega
 
 ---
 
-### ???? Important Insights
+###  Important Insights
 
 * Top cities and customers drive major revenue contribution
 * Products such as those carrying the name "Acco" exhibit high presence
