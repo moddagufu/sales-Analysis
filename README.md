@@ -47,7 +47,7 @@ To conduct thorough data analysis on a firm's sales data to reveal insights rega
 
 ---
 
-### ✅ Conclusion
+### Conclusion
 
 The SQL analysis was able to effectively uncover actionable insights from the sales data, helping to inform improved decision-making regarding customer targeting, product supply, and geographic strategy.
 
